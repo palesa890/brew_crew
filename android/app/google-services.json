@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1081774246402",
+    "project_id": "palesa-brew-crew",
+    "storage_bucket": "palesa-brew-crew.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081774246402:android:a54239ffbd3981df2ab51b",
+        "android_client_info": {
+          "package_name": "com.example.brew_crew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHcURXNETURlOjeDiTieepJfW4w7HyyO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
